@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455254978823",
+    "project_id": "interactive-5557c",
+    "storage_bucket": "interactive-5557c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455254978823:android:029c24d8770b0cec0a95a2",
+        "android_client_info": {
+          "package_name": "com.example.interactive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOIoAXhI4GVn29KrwU3O-E9QLZxXJU2Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
